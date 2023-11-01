@@ -25,7 +25,7 @@ Hey, It is a clone of _Google Forms_ , it's completely open source and have some
 
 ##### Downloading and installing steps:
 
-- **[Download or Clone](https://github.com/rohitsaini1196/google-forms.git)** the latest version of the Code.
+- **[Download or Clone](https://github.com/faizanrauf6/google-forms-clone-mern.git)** the latest version of the Code.
 
 ```console
 $ cd google-forms-clone-mern
